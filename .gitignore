@@ -1,0 +1,5 @@
+steps.txt
+.env
+.venv
+.log
+.sqlite3
